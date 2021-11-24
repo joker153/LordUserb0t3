@@ -1,14 +1,14 @@
 {
     "self_mode": true,
-    "anti_delete": false,
+    "anti_delete": true,
     "anti_call": true,
     "autorespon": true,
     "user_register": true,
 	"prefix": ".",
-	"ownerNumber": "62887435047326",
-	"ownername": "ZeeoneOfc",
-	"botname":"LordUserbot",
+	"ownerNumber": "16479575483",
+	"ownername": "Professor",
+	"botname":"Anna",
 	"thumbnail":"LordUserbot_Thumb.jpg",
 	"fakethumb":"LordUserbot_Thumb.jpg",
-	"url_gif":"https://telegra.ph/file/c864fc477fa22e0d4bfc3.mp4"
+	"url_gif":"https://telegra.ph/file/e93c4b6b24f33e02625a3.mp4"
 }
